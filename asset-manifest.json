@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SandeepM-GitHub/react-calculator.git/static/css/main.362d9cb4.css",
+    "main.js": "/SandeepM-GitHub/react-calculator.git/static/js/main.d200844e.js",
+    "static/js/453.1d122d62.chunk.js": "/SandeepM-GitHub/react-calculator.git/static/js/453.1d122d62.chunk.js",
+    "index.html": "/SandeepM-GitHub/react-calculator.git/index.html",
+    "main.362d9cb4.css.map": "/SandeepM-GitHub/react-calculator.git/static/css/main.362d9cb4.css.map",
+    "main.d200844e.js.map": "/SandeepM-GitHub/react-calculator.git/static/js/main.d200844e.js.map",
+    "453.1d122d62.chunk.js.map": "/SandeepM-GitHub/react-calculator.git/static/js/453.1d122d62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362d9cb4.css",
+    "static/js/main.d200844e.js"
+  ]
+}
